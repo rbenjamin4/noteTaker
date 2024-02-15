@@ -1,29 +1,22 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text"
-    },
-    {
-        "title": "Is it working?",
-        "text": "Text example"
-    },
-    {
-        "title": "test",
-        "text": "test"
-    },
-    {
         "title": "test 2",
         "text": "with id number",
-        "note_id": "30af"
+        "d": "30af"
     },
     {
         "title": "New Note",
         "text": "note text",
-        "note_id": "c40a"
+        "id": "c40a"
     },
     {
         "title": "New note",
         "text": "note text",
-        "note_id": "34a6"
+        "id": "34a6"
+    },
+    {
+        "title": "Thursday",
+        "text": "to-do list",
+        "id": "fde5"
     }
 ]

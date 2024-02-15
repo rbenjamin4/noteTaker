@@ -15,5 +15,15 @@
         "title": "test 2",
         "text": "with id number",
         "note_id": "30af"
+    },
+    {
+        "title": "New Note",
+        "text": "note text",
+        "note_id": "c40a"
+    },
+    {
+        "title": "New note",
+        "text": "note text",
+        "note_id": "34a6"
     }
 ]

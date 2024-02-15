@@ -1,22 +1,25 @@
-## Note Taker App
+# Note Taker App
 
-# Description
+## Deployed on Heroku
+https://arcane-wave-55020-fa8f61a9adf1.herokuapp.com/
+
+## Description
 This is an application that can be used to create notes (with titles and text), save them do a JSON file, and view them in the browser. This application takes advantage of Node.JS and Express.JS.
 
 ![Note Taker App](./Assets/NoteTaker.png?raw=true "Note Taker App Screenshot")
 
-# Installation
+## Installation
  Clone the repo from https://github.com/rbenjamin4/noteTaker
 
  Run NPM install express in the root directory
 
-# Usage
+## Usage
 Users can create note titles and text, save them, clear them, and select saved notes from the column on the left-hand side.
 
-# Credits
+## Credits
 Part of this project was done while pair coding with a group that may have resulted in the same code in certain places. Other code also derived from additional in-class assignments.
 
-# License
+## License
 
 MIT License
 
